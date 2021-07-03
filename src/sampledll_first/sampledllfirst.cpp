@@ -1,3 +1,7 @@
+/**
+ * @copyright Copyright (c) Yuji Iwanaga
+ * @date 3rd July 2021
+ */
 
 #include "sampledllfirst.h"
 #include "dependdll.h"

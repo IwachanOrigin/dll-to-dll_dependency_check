@@ -1,3 +1,7 @@
+/**
+ * @copyright Copyright (c) Yuji Iwanaga
+ * @date 3rd July 2021
+ */
 
 #ifndef SAMPLEDLLFIRST_H
 #define SAMPLEDLLFIRST_H
